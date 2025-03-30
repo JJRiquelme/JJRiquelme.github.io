@@ -2,6 +2,7 @@
 layout: single
 title: "Gallery"
 permalink: /gallery/
+author_profile: true
 # List your images with their full image path, thumbnail (if any), alt text, and caption
 gallery:
   - url: /assets/images/gallery/top-flange-head.jpg  

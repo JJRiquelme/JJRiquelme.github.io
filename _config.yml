@@ -17,11 +17,11 @@ minimal_mistakes_skin    : "mint" # "air", "aqua", "contrast", "dark", "dirt", "
 # Site Settings
 locale                   : "en-GB"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : "JJ Riquelme Portfolio"
-title_separator          : "§"
+title                    : "JJ Riquelme's Portfolio"
+title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "JJ Riquelme "
-description              : "Portfolio of JJ Riquelme"
+name                     : "Juanjo Riquelme"
+description              : "Riquelme's Porfolio for the CSIC Momentum Programme funded by the EU"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -115,7 +115,8 @@ analytics:
 author:
   name             : "Juanjo Riquelme"
   avatar           : "/assets/images/JJRiquelme-bio-pic.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Postdoc at CSIC specializing in SPM & 2D materials. Beginning a journey to AI, quantum sensors, and entrepreneurship."
+  bio              : "Postdoc at CSIC specializing in SPM & 2D materials.
+                      Beginning a journey to AI, quantum sensors, and entrepreneurship."
   location         : "Greater Madrid Area, Spain"
   email            : "jj.riquelme@csic.es"
   links:

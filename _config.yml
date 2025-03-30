@@ -121,7 +121,7 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:jj.riquelme@csic.es"
+      # url: "mailto:jj.riquelme@csic.es"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "jjriquelme.github.io"

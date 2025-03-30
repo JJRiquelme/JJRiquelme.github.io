@@ -140,6 +140,9 @@ author:
     - label: "ResearchGate"
       icon: "fab fa-fw fa-researchgate"
       url: "https://www.researchgate.net/profile/Juan-Riquelme-6"
+    - label: "2D Foundry Research Group"
+      icon: "fas fa-fw fa-users"
+      url: "https://sites.google.com/view/2dfoundry"
 
 # Site Footer
 footer:

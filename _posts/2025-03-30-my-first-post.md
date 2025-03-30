@@ -1,11 +1,10 @@
 ---
 layout: single
-title: "My First Post"
+title: "Quantum bets: the new AI moment for investment firms?"
 date: 2025-03-30
 categories: [QuantumComputing, DeepTech, Nature, QuantumAlgorithms, Research]
-excerpt: "A brief summary of my first post."
+excerpt: "Investment firms are quietly moving from funding quantum tech to co-authoring its breakthroughs."
 ---
-Your post content goes here.
 Hello World
 
 {% raw %}

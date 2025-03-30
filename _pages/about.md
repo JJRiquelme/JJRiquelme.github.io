@@ -2,6 +2,7 @@
 permalink: /about/
 title: "About"
 layout: single
+author_profile: true
 ---
 
 I am a postdoctoral researcher at the Spanish National Research Council (CSIC) working at the 2D Foundry Research Group. I am located at Madrid's Materials Research Institute (ICMM) placed in the UAM Campus.

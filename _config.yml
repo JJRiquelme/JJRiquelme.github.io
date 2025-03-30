@@ -137,13 +137,6 @@ author:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/juanjoriquelme/"
-    - label: "ResearchGate"
-      icon: "fab fa-fw fa-researchgate"
-      url: "https://www.researchgate.net/profile/Juan-Riquelme-6
-    - label: "Research Group Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://sites.google.com/view/2dfoundry"
-
 
 # Site Footer
 footer:

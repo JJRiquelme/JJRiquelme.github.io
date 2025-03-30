@@ -3,6 +3,7 @@ permalink: /about/
 title: "About"
 layout: single
 author_profile: true
+image: "/images/JJRiquelme-bio-pic.jpg"
 ---
 
 I am a postdoctoral researcher at the Spanish National Research Council (CSIC) working at the 2D Foundry Research Group. I am located at Madrid's Materials Research Institute (ICMM) placed in the UAM Campus.
@@ -13,4 +14,4 @@ I have a strong interest in AI and Quantum sensors for 2D materials and their he
 
 I am currently enjoying a CSIC Momentum Fellowship.
 
-image: "/images/JJRiquelme-bio-pic.jpg"
+

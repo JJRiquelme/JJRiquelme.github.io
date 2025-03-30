@@ -115,11 +115,7 @@ analytics:
 author:
   name             : "Juanjo Riquelme"
   avatar           : "/assets/images/JJRiquelme-bio-pic.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am a  postdoctoral researcher at the Spanish National Research Council (CSIC). 
-  
-  I am an expert in scanning probe microscopy (SPM) design, building, testing and characterisation in varied environments (UHV, cryogenic). My experience comprises also the development of methods for the production of 2D materials.
-  I have a strong interest AI and Quatum sensors for 2D materials and their heterostructures. Also, my entrepreneurial experience and IP skills have enabled me to contribute to the development of a scalable method for 2D materials production.     
-  I am a member of the 2D Foundry Research Group where I am currently  enjoying a CSIC Momentum Fellowship."
+  bio              : "Postdoc at CSIC specializing in SPM & 2D materials. Beginning a journey to AI, quantum sensors, and entrepreneurship."
   location         : "Greater Madrid Area, Spain"
   email            : "jj.riquelme@csic.es"
   links:

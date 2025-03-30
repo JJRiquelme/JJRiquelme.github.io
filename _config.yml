@@ -126,7 +126,7 @@ author:
       icon: "fas fa-fw fa-link"
       url: "jjriquelme.github.io"
     - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
+      icon: "fab fa-fw fa-bluesky-square"
       url: "https://bsky.app/profile/juanjoriquelme.bsky.social"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"

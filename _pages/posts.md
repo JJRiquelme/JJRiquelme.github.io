@@ -1,9 +1,5 @@
 ---
-layout: home
+layout: single
 title: "Posts"
-author_profile: true
-permalink: /Posts/
-pagination: 
-  enabled: true
-footer: true
+permalink: /posts/
 ---

@@ -10,7 +10,7 @@ The LinkedIn post below expands briefly on this perspective.
 
 {% assign image_url = assets/images/gallery/AFM&MFM.png %}
 {% assign link_url =  https://www.linkedin.com/ %}
-[assets/images/gallery/AFM&MFM.png][def]
+[(assets/images/gallery/AFM&MFM.png)][def]
 
 
 [def]: https://www.linkedin.com/posts/juanjoriquelme_why-cant-ai-make-its-own-discoveries-activity-7309592567208148992-1KIk?utm_source=share&utm_medium=member_desktop&rcm=ACoAAA1gr_4BLrvDKCrhI_S4NB368f10Kl22qBQ

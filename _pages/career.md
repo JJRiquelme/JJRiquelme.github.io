@@ -68,25 +68,5 @@ Establish alliances with experts in AI, quantum transport, advanced SPM techniqu
 •	_Defining an Entrepreneurial Niche:_
 Position myself as a leading entrepreneurial figure by leveraging the patent and innovations in SPM to translate research into practical applications.
 
-_Strategic Vision_
-
-My professional journey is defined by a commitment to advancing scanning probe microscopy (SPM) and the development of quantum sensors through innovative methods and strategic collaboration. My main strengths lie in my expertise in designing, developing and applying SPM in environments ranging from UHV to cryogenic conditions, along with a growing interest in quantum sensor applications.
-
-To leverage these strengths and ensure a significant impact, my strategic vision focuses on:
-
-•	_Maximising My Advantage in SPM:_
-Continue applying my SPM knowledge to develop novel methodologies, with a special emphasis on NV-based microscopy and hybrid quantum methods.
-
-•	_Driving Innovation Through AI:_
- Integrate advanced AI techniques into SPM control and data analysis, improving precision, speed and automation, while addressing real-time performance challenges and interpretability.
-
-•	_Fostering Strategic Collaborations:_
-Establish alliances with experts in AI, quantum transport, advanced SPM techniques and quantum sensors to ensure scientific support and credibility.
-
-•	_Defining an Entrepreneurial Niche:_
-Position myself as a leading entrepreneurial figure by leveraging the patent and innovations in SPM to translate research into practical applications.
-
-
-
 
 Full CV and References are available upon request.

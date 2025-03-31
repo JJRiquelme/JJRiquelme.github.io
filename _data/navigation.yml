@@ -4,6 +4,8 @@ main:
     url: /
   - title: "About"
     url: /about/  
+  - title: "Career"
+    url: /career/
   - title: "Posts"
     url: /posts/
   - gallery: true

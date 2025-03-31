@@ -12,7 +12,7 @@ gallery:
     image_path: /assets/images/gallery/thumbs/3rd_transfer3_thumbnail_500x500.jpg
     alt: "3 transfers of MoS2 on a 2 inches Si wafer"
     title: "Micrographs of 3 transfers of MoS2 on a 2 inches Si wafer"
-  - url: /assets/images/gallery/fig3.jpg
+  - url: /assets/images/gallery/fig3.png
     image_path: /assets/images/gallery/thumbs/fig3_thumbnail_1024x640.jpg
     alt: "MoS2 conformal devices"
     title: "A set of conformal electronic devices on nitrile glove, human skin, faux leather, aluminum or a leaf"

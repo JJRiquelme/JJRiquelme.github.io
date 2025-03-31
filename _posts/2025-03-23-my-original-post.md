@@ -4,16 +4,9 @@ title: "Yann LeCun puts it plainly: today’s AI still can’t abstract."
 date: 2025-03-23
 categories: [AI, MachineLearning, VJEPA, YannLeCun, ArtificialIntelligence, RepresentationLearning, EmbodiedAI, Abstraction, PhysicsAndAI, PredictiveModels, AIResearch, DeepLearning]
 excerpt: "Yann LeCun highlights abstraction as the central missing piece in current AI systems, and proposes a path forward through architectures like V-JEPA."
----
-This short post points to an insightful interview and Meta’s recent write-up on V-JEPA, an architecture aimed at bridging that gap. It’s a useful listen—not just for AI researchers, but for anyone thinking about how machine learning interfaces with physical systems and real-world prediction.
 
 ---
-title: "V-JEPA and the Missing Abstraction Layer in AI"
-date: 2025-03-30
-categories: [AI, Self-Supervised Learning]
-tags: [VJEPA, YannLeCun, MetaAI, Abstraction, PredictiveModels]
-author_profile: true
----
+_This short post points to an insightful interview and Meta’s recent write-up on V-JEPA, an architecture aimed at bridging that gap. It’s a useful listen—not just for AI researchers, but for anyone thinking about how machine learning interfaces with physical systems and real-world prediction._
 
 One of the most interesting conversations in AI right now isn't about scale or compute—it's about abstraction. Despite the rapid progress in large language models and vision systems, today’s AI still struggles to build internal representations that generalize beyond surface patterns. In a recent podcast interview, Yann LeCun puts this limitation front and center, arguing that the lack of an effective abstraction mechanism is the core bottleneck in current AI systems.
 
@@ -29,7 +22,7 @@ It’s still early days. The V-JEPA model is under active development, and the r
 
 For anyone thinking about AI’s role in modeling physical systems, experimental processes, or intelligent instrumentation, V-JEPA is worth a close look—not just as a tool, but as a conceptual pivot.
 
-Interview 
+*Resources:*
 - 🎧 [Podcast](https://pod.link/1522960417/)
 - 🧠 [Meta’s official blog post](https://ai.meta.com/blog/v-jepa-yann-lecun-ai-model-video-joint-embedding-predictive-architecture/)
 - 📄 [arXiv paper](https://arxiv.org/abs/2404.08471)

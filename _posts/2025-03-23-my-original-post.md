@@ -9,16 +9,5 @@ This short post points to an insightful interview and Meta’s recent write-up o
 The LinkedIn post below expands briefly on this perspective.
 
 <a href="https://www.linkedin.com/posts/juanjoriquelme_why-cant-ai-make-its-own-discoveries-activity-7309592567208148992-1KIk?utm_source=share&utm_medium=member_desktop&rcm=ACoAAA1gr_4BLrvDKCrhI_S4NB368f10Kl22qBQ">
-  <img src="assets/images/gallery/AFM&MFM.png" alt="AFM & MFM Image" style="width:300px; height:auto;">
+  <img src="aassets/images/posts/2025-03-23-AI-Abstraction-LinkedIn.png" alt="Test" style="width:300px; height:auto;">
 </a>
-
-
-[![LinkedIn Post](assets/images/2025-03-23-AI-Abstraction-LinkedIn_thumbnail_400x600.png)](https://www.linkedin.com/posts/juanjoriquelme_why-cant-ai-make-its-own-discoveries-activity-7309592567208148992-1KIk?utm_source=share&utm_medium=member_desktop&rcm=ACoAAA1gr_4BLrvDKCrhI_S4NB368f10Kl22qBQ)
-
-{% assign image_url = assets/images/gallery/AFM&MFM.png %}
-{% assign link_url =  https://www.linkedin.com/ %}
-[(assets/images/gallery/AFM&MFM.png)][def]
-W
-
-[def]: https://www.linkedin.com/posts/juanjoriquelme_why-cant-ai-make-its-own-discoveries-activity-7309592567208148992-1KIk?utm_source=share&utm_medium=member_desktop&rcm=ACoAAA1gr_4BLrvDKCrhI_S4NB368f10Kl22qBQ
-[afmMfmImage]: assets/images/gallery/AFM&MFM.png

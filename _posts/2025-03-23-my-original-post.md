@@ -11,9 +11,11 @@ The LinkedIn post below expands briefly on this perspective.
 {% assign image_url = /assets/images/posts/2025-0-23-AI-Abstraction-LinkedIn.png' %}
 {% assign link_url = 'https://www.linkedin.com/posts/juanjoriquelme_why-cant-ai-make-its-own-discoveries-activity-7309592567208148992-1KIk' %}
 
-[My Image]({{ link_url }})
 
-[![LinkedIn Post Preview](/assets/images/posts/2025-0-23-AI-Abstraction-LinkedIn.png)](https://www.linkedin.com/posts/juanjoriquelme_why-cant-ai-make-its-own-discoveries-activity-7309592567208148992-1KIk)
+
+
+
+[!LinkedIn Post Preview](image_url)](link_url)
 
 
 

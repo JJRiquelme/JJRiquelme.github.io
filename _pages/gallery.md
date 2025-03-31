@@ -2,6 +2,7 @@
 layout: single
 title: "Gallery"
 permalink: /gallery/
+---
 # List your images with their full image path, thumbnail (if any), alt text, and caption
 gallery:
   - url: /assets/images/gallery/2inches_thumbnail_1080x1080.jpg
@@ -22,6 +23,6 @@ gallery:
     title: "A sketch of the apparatus used to roll up the MoS2 film"
 ---
 
-
+Gallery
 
 {% include gallery caption="Gallery. Its contents are protected under Creative Commons License except where noted so." %}

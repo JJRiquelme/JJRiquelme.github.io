@@ -22,7 +22,7 @@ gallery:
     title: "A sketch of the apparatus used to roll up the MoS2 film"
 ---
 
-Gallery:
+Gallery of Juanjo Riquelme.
 
 {% include gallery caption="Gallery. Its contents are protected under Creative Commons License except where noted so." %}
 

@@ -21,7 +21,7 @@ title                    : "JJ Riquelme's Portfolio"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Juanjo Riquelme"
-description              : "Riquelme's Porfolio for the CSIC Momentum Programme funded by the EU"
+description              : "Riquelme's Porfolio for the CSIC Momentum Program funded by the EU"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"

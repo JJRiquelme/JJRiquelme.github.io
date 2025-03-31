@@ -10,4 +10,4 @@ The LinkedIn post below expands briefly on this perspective.
 
 {% assign image_url = assets/images/gallery/AFM&MFM.png %}
 {% assign link_url =  "https://www.linkedin.com/" %}
-[(image_url)](link_url) 
+[LinkedIn](link_url) 

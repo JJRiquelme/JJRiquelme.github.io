@@ -30,8 +30,8 @@ It’s still early days. The V-JEPA model is under active development, and the r
 For anyone thinking about AI’s role in modeling physical systems, experimental processes, or intelligent instrumentation, V-JEPA is worth a close look—not just as a tool, but as a conceptual pivot.
 
 Interview 
-- 🎧 [Podcast]8 https://pod.link/1522960417/)
-- 🧠 [Meta’s official blog post](https://ai.meta.com/blog/v-jepa-yann-lecun-ai-model-video-joint-embedding-predictive-architecture/)https://ai.meta.com/blog/v-jepa-yann-lecun-ai-model-video-joint-embedding-predictive-architecture/
+- 🎧 [Podcast](https://pod.link/1522960417/)
+- 🧠 [Meta’s official blog post](https://ai.meta.com/blog/v-jepa-yann-lecun-ai-model-video-joint-embedding-predictive-architecture/)
 - 📄 [arXiv paper](https://arxiv.org/abs/2404.08471)
 - 💻 [GitHub repo](https://github.com/facebookresearch/jepa)
-- 🔬 [OpenReview submission](https://openreview.net/forum?id=BZ5a1r-kVsf)
+- 🔬 [Vision](https://openreview.net/forum?id=BZ5a1r-kVsf)
